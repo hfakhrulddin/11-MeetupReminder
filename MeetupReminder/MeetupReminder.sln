@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupReminder", "MeetupReminder\MeetupReminder.csproj", "{CF75C71B-B282-4EB9-8985-95D57FC186E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupReminder.Core", "MeetupReminder.Core\MeetupReminder.Core.csproj", "{2DC14187-3E0F-4EFD-8B75-AE483571A9E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF75C71B-B282-4EB9-8985-95D57FC186E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF75C71B-B282-4EB9-8985-95D57FC186E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF75C71B-B282-4EB9-8985-95D57FC186E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF75C71B-B282-4EB9-8985-95D57FC186E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC14187-3E0F-4EFD-8B75-AE483571A9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC14187-3E0F-4EFD-8B75-AE483571A9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC14187-3E0F-4EFD-8B75-AE483571A9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC14187-3E0F-4EFD-8B75-AE483571A9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
